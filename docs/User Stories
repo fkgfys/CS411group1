@@ -1,0 +1,13 @@
+
+1- As an avid concert go-er, I want to create an account and use it to log-in each time I use this web application, so that I can benefit from getting cheap flight tickets.
+
+2- As a logical spender, I want to get cheap flight tickets, so that I can spend less money when I travel to another city for a concert.
+
+3- As a logged-in user (refer to 1), I want to search up artists and get cheap options of flight tickets to their concert’s location (Refer to 2) and back to my original city the day after. This way, I will be getting the cheapest options for a round-trip to the city in which the concert is. 
+(The app will already know the date of the concert. So, the user will be getting the cheapest options to fly the day before and then the day after.)
+
+4- As a logged-in user (refer to 1), I want to get flight tickets (Refer to 2) to the concert I am attending (refer to 3); however, I want the dates to be more flexible. This way, I can choose how many days before and after I can stay in that city.
+(Accomplished with a drag bar mechanism? - The user will choose the amount of days to stay before and after the concert in the second city)
+
+5- As a logged-in user (refer to 1), I want to get cheap flight tickets (Refer to 2) for a concert’s city (refer to 3); however, instead of returning to my original location, I want to get tickets for another flight in a third city and then fly back to the first city, so that I can attend a second concert. 
+(The app will alert the user, if accomplishing this is not possible - no flights, not enough time)
